@@ -7,7 +7,7 @@ main_nav: true
 
 ![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
 
-<h1>This a home page of Applied Computer Networks Course .</h1>
+<h2>This a home page of Applied Computer Networks Course.</h2>
 
 **Overview:** 
 This course provides an introduction to fundamental concepts in the design and implementation of computer networks, their protocols, and applications in in an **applied manner**! 
@@ -37,5 +37,12 @@ You must be able to program in a structured high-level programming language, suc
 The goal of the course is to equip students with practical skills in designing and implementing computer networks and can understand and explain every details in this images.
 
 ![alt text]({{ site.baseurl }}/assets/HowDNSWorks.gif "How DNS Works"){:.profile}
+
+<a href="{{ site.baseurl }}/assets/HowDNSWorks.gif" data-lightbox="falcon9-large" data-title="How DNS Works">
+  <img src="{{ site.baseurl }}/assets/HowDNSWorks.gif" title="How DNS Works">
+</a>
+
+
+
 ![alt text]({{ site.baseurl }}/assets/CN-6-eng.jpg "Internet Elements"){:.profile}
 
