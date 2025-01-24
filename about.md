@@ -7,12 +7,12 @@ main_nav: true
 
 ![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
 
-This a home page of Applied Computer Networks Course by .
+<h1>This a home page of Applied Computer Networks Course .<h1>
 
+**Overview:** 
+This course provides an introduction to fundamental concepts in the design and implementation of computer networks, their protocols, and applications in in an **applied manner**! 
 
-**Overview:** This course provides an introduction to fundamental concepts in the design and implementation of computer networks, their protocols, and applications in in an **applied manner**!. 
-
-<h3>Topics to be covered include:</h3>
+<h5>Topics to be covered include:</h5>
 <ul>
   <li>Overview of network architectures</li>
   <li>Network programming intro</li>
@@ -21,31 +21,21 @@ This a home page of Applied Computer Networks Course by .
   <li>Network management intro</li>
   <li>Layer 7 protocols</li>
   <li>Social Media</li>
- 
   <li>TCP, UDP, IPv4, IPv6, ...</li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-   <li>Soft Skils!</li>
-  
+  <li>Some other topics related to the use of computer networks</li>
+  <li>Soft Skils!</li>
 </ul>
 
-
-**Prerequisites:** A rudimentary understanding of algorithms and operating systems(OS) is required. 
-
+**Prerequisites:**
+A rudimentary understanding of algorithms and operating systems(OS) is required. 
 You must be able to program in a structured high-level programming language, such as C#, C++, Python, or JAVA.
 
-**Instructor:** [Behnam Amiri](https://www.linkedin.com/in/amiri-link/)
+**Instructor:**
+[Behnam Amiri](https://www.linkedin.com/in/amiri-link/)
 
+**The goal of the course**
+The goal of the course is to equip students with practical skills in designing and implementing computer networks and can understand and explain every details in this images.
 
+![alt text]({{ site.baseurl }}/assets/HowDNSWorks.gif "How DNS Works"){:.profile}
+![alt text]({{ site.baseurl }}/assets/CN-6-eng.jpg "Internet Elements"){:.profile}
 
-
-The goal  
-
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
-
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
