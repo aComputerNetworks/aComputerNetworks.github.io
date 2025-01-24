@@ -38,7 +38,7 @@ The goal of the course is to equip students with practical skills in designing a
 
 ![alt text]({{ site.baseurl }}/assets/HowDNSWorks.gif "How DNS Works"){:.profile}
 
-<a href="{{ site.baseurl }}/assets/HowDNSWorks.gif" data-lightbox="falcon9-large" data-title="How DNS Works">
+<a href="{{ site.baseurl }}/assets/HowDNSWorks.gif" data-lightbox="How DNS Works" data-title="How DNS Works">
   <img src="{{ site.baseurl }}/assets/HowDNSWorks.gif" title="How DNS Works">
 </a>
 
