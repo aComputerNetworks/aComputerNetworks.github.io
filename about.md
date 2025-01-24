@@ -7,7 +7,7 @@ main_nav: true
 
 ![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
 
-<h2>This a home page of Applied Computer Networks Course.</h2>
+<h2>Home page of Applied Computer Networks Course</h2>
 
 **Overview:** 
 This course provides an introduction to fundamental concepts in the design and implementation of computer networks, their protocols, and applications in in an **applied manner**! 
