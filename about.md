@@ -34,14 +34,14 @@ You must be able to program in a structured high-level programming language, suc
 [Behnam Amiri](https://www.linkedin.com/in/amiri-link/)
 
 **The goal of the course**
-The goal of the course is to equip students with practical skills in designing and implementing computer networks and can understand and explain every details in this images.
+The goal of the course is to equip students with practical skills in using and implementing computer networks and can understand and explain every details in this images.
 
 
 <a href="{{ site.baseurl }}/assets/HowDNSWorks.gif" data-lightbox="How DNS Works" data-title="How DNS Works">
   <img src="{{ site.baseurl }}/assets/HowDNSWorks.gif" title="How DNS Works" style="width: 400px;">
 </a>
 
-<a href="{{ site.baseurl }}/assets/CN-6-eng.jpg" data-lightbox="Computer Network Book" data-title="Computer Network Book">
-  <img src="{{ site.baseurl }}/assets/CN-6-eng.jpg" title="Computer Network Book" style="width: 400px;">
+<a href="{{ site.baseurl }}/assets/CN-6-eng.jpg" data-lightbox="Computer Networks Book" data-title="Computer Networks Book">
+  <img src="{{ site.baseurl }}/assets/CN-6-eng.jpg" title="Computer Networks Book" style="width: 400px;">
 </a>
 
