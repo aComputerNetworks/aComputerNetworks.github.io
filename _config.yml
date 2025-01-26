@@ -34,9 +34,8 @@ pagination:
   enabled: true
   per_page: 5 # Adjust the number of posts per page as needed
   permalink: "/page/:num/"
-  #sort_reverse: true
-  category: 'posts'
-  debug: false
+  sort_reverse: true
+  debug: true
 
 # Archive settings (see https://github.com/jekyll/jekyll-archives/)
 jekyll-archives:
