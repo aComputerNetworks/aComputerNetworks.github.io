@@ -16,11 +16,13 @@ pagination:
 
 <div class="wrapper">
 <ul class="post-list">
+  hi 123
+
   {% for post in paginator.posts %}
+  hi 456
   <li>
     <h2>
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      hi 123
     </h2>
     <section class="post-excerpt" itemprop="description">
       <p>{{ post.excerpt }}</p>
