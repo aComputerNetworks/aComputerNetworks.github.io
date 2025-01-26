@@ -5,7 +5,7 @@ permalink: /about/
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
+![alt text]({{ site.baseurl }}/assets/Computer-Network-1536x864-935131953.png "Network Picture"){:.profile}
 
 <h2>Home page of Applied Computer Networks Course</h2>
 
@@ -36,6 +36,9 @@ You must be able to program in a structured high-level programming language, suc
 **The goal of the course**
 The goal of the course is to equip students with practical skills in using and implementing computer networks and can understand and explain every details in this images.
 
+<a href="{{ site.baseurl }}/assets/TCPvsUDP.jpg" data-lightbox="TCP vs UDP" data-title="TCP vs UDP">
+  <img src="{{ site.baseurl }}/assets/TCPvsUDP.jpg" title="TCP vs UDP" style="width: 400px;">
+</a>
 
 <a href="{{ site.baseurl }}/assets/HowDNSWorks.gif" data-lightbox="How DNS Works" data-title="How DNS Works">
   <img src="{{ site.baseurl }}/assets/HowDNSWorks.gif" title="How DNS Works" style="width: 400px;">
