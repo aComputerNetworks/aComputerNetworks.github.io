@@ -20,7 +20,6 @@ pagination:
   {% for category in site.categories %}
   {% capture cat %}{{ category | first }}{% endcapture %}
   {% for post in site.categories[cat] %}
-
   <li>
     <h2>
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
@@ -45,6 +44,7 @@ pagination:
   {% if forloop.last == false %}
   <hr>
   {% endif %}
+  {% endfor %}
   {% endfor %}
 </ul>
 
