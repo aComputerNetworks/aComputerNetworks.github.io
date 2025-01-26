@@ -15,7 +15,7 @@ pagination:
 </div>
 
 <div class="wrapper">
-  <pre>{{ paginator | inspect }}</pre>
+  <pre>{{ paginator.posts | inspect }}</pre>
   {% for post in paginator.posts %}
   <h2>{{ post.title }}</h2>
   <p>{{ post.excerpt }}</p>
