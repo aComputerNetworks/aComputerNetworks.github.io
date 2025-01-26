@@ -12,7 +12,7 @@ main_nav: true
 **Overview:** 
 This course provides an introduction to fundamental concepts in the design and implementation of computer networks, their protocols, and applications in in an **applied manner**! 
 
-<h5>Topics to be covered include:</h5>
+**Topics to be covered include:**
 <ul>
   <li>Overview of network architectures</li>
   <li>Network programming intro</li>
